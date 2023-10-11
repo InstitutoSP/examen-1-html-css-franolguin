@@ -1,0 +1,32 @@
+padding: 18px;  
+}
+nav ul{
+    list-style-type:none;
+}
+nav li{
+    display:inline;
+    margin-right:18px;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(250, 243, 243);
+}
+main{
+    padding:18px;
+}
+section{
+    margin-bottom: 20px;
+}
+footer{
+    background-color:rgba(238, 236, 240, 0.63);
+    color:rgb(252, 249, 249);
+    text-align:center;
+    padding: 18px;
+}
+section{
+margin-bottom: 20px;
+}
+body{
+    background-color:rgb(3, 3, 3);
+    color: aliceblue;
+}
